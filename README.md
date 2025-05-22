@@ -12,7 +12,7 @@ terms to enhance the model performance.
 
 ### Usage
 
-## ECG benchmark
+# ECG benchmark
 
 Training domain classifier
 
