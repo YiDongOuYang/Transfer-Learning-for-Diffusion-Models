@@ -10,7 +10,7 @@ We further extend TGDP to a conditional version for modeling the joint distribut
 of data and its corresponding labels, together with two additional regularization
 terms to enhance the model performance. 
 
-Glad to find https://github.com/juliankleutgens/TransferLearingForDM_simulated
+Glad to find an implementation for 2D simulation https://github.com/juliankleutgens/TransferLearingForDM_simulated
 
 ### Usage
 
