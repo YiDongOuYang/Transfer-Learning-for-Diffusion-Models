@@ -1,4 +1,4 @@
-# Neurips 2024, Transfer Learning for Diffusion Models
+# [Neurips 2024] Transfer Learning for Diffusion Models
 
 This repo contains the pytorch code for experiments in the paper [Transfer Learning for Diffusion Models](https://arxiv.org/abs/2405.16876)
 
