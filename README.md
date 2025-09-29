@@ -51,7 +51,7 @@ If you find the code useful for your research, please consider citing
 @inproceedings{
   Ouyang2024trans,
   title={Transfer Learning for Diffusion Models},
-  author={Yidong Ouyang, Liyan Xie, Hongyuan Zha, Guang Cheng},
+  author={Yidong Ouyang and Liyan Xie and Hongyuan Zha and Guang Cheng},
   booktitle={Conference on Neural Information Processing Systems},
   year={2024},
 }
